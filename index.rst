@@ -1,22 +1,23 @@
-.. OpenCOR documentation master file, created by
-   sphinx-quickstart on Wed Sep 10 22:04:25 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _OpenCOR-index:
 
-Welcome to OpenCOR's documentation!
-===================================
+=======
+OpenCOR
+=======
 
-Contents:
+`OpenCOR <http://www.opencor.ws/>`_ is an `open source <http://opencor.ws/user/licensing.html>`_, cross-platform and `CellML <http://www.cellml.org/>`_-based modelling environment. The following documentation refers to the ``0.3`` version of OpenCOR, for which supported platforms can be found :ref:`here <OpenCOR-supportedplatforms>`.
+
+.. _OpenCOR-downloadLinks:
+
+This version of OpenCOR can be downloaded from the `OpenCOR download page <http://opencor.ws/downloads/index.php>`_.
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
 
+    userInterfaces
+    plugins/index
 
+.. toctree::
+    :hidden:
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    OpenCOR-supportedplatforms
+    plugins/cellmlannotationview
