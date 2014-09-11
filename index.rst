@@ -22,3 +22,12 @@ This version of OpenCOR can be downloaded from the `OpenCOR download page <http:
 
     OpenCOR-supportedplatforms
     plugins/cellmlannotationview
+    plugins/cellmlmodelrepositorywindow.rst
+    plugins/cellmltools.rst
+    plugins/filebrowserwindow.rst
+    plugins/fileorganiserwindow.rst
+    plugins/helpwindow.rst
+    plugins/prettycellmlview.rst
+    plugins/rawcellmlview.rst
+    plugins/rawview.rst
+    plugins/singlecellview.rst
