@@ -59,7 +59,7 @@ Miscellaneous
 Miscellaneous plugins are used for various purposes:
 
 * :ref:`CellMLTools <OpenCOR-plugin-cellmltools>`: a plugin to access various `CellML <http://cellml.org>`_\ -related tools.
-* HelpWindow: a plugin to provide help.
+* :ref:`HelpWindow <OpenCOR-plugin-helpwindow>`: a plugin to provide help.
 
 There are also some non-selectable Miscellaneous plugins:
 
