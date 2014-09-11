@@ -44,7 +44,6 @@ Editing
 Editing plugins are used to edit files:
 
 * :ref:`CellMLAnnotationView <OpenCOR-plugin-cellmlannotationview>`: a plugin to annotate `CellML <http://cellml.org>`_ files.
-* :ref:`PrettyCellMLView <OpenCOR-plugin-prettycellmlview>`: a plugin to edit `CellML <http://cellml.org>`_ files using a pretty CellML format.
 * :ref:`RawCellMLView <OpenCOR-plugin-rawcellmlview>`: a plugin to edit `CellML <http://cellml.org>`_ files using the raw CellML format.
 * :ref:`RawView <OpenCOR-plugin-rawview>`: a plugin to edit any file.
 
