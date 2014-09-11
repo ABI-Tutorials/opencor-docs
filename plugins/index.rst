@@ -80,7 +80,7 @@ Simulation
 
 Simulation plugins are used to simulate files:
 
-* SingleCellView: a plugin to run single cell simulations.
+* :ref:`SingleCellView <OpenCOR-plugin-singlecellview>`: a plugin to run single cell simulations.
 
 Solver
 ======
