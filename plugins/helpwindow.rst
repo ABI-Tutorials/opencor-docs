@@ -1,24 +1,24 @@
 .. _OpenCOR-plugin-helpwindow:
 
-===========
-Help Plugin
-===========
+=================
+HelpWindow Plugin
+=================
 
-The Help plugin provides some user documentation that looks as follows:
+The HelpWindow plugin provides some user documentation that looks as follows:
 
-.. image:: ../resources/images/plugins/HelpScreenshot01.png
+.. image:: ../resources/images/plugins/HelpWindowScreenshot01.png
     :align: center
     :width: 60%
-    :alt: Help plugin: default view
+    :alt: HelpWindow plugin: default view
 
 The contents of the documentation is the same as the one that can be found in the `user documentation <http://www.opencor.ws/user/index.html>`_ section of the `OpenCOR website <http://www.opencor.ws/>`_. This includes a menu that gets shown whenever you move your mouse pointer over the information icon (top right):
 
-.. image:: ../resources/images/plugins/HelpScreenshot02.png
+.. image:: ../resources/images/plugins/HelpWindowScreenshot02.png
     :align: center
     :width: 60%
-    :alt: Help plugin: context menu
+    :alt: HelpWindow plugin: context menu
 
-In addition to what is shown on the website, the Help plugin also displays special links, which when clicked send a command to OpenCOR. For example, open the current page both in OpenCOR and on the `OpenCOR website <http://www.opencor.ws/user/plugins/Help.html>`_. Now, if you check the bold text below, you will see that its contents is slightly different, depending on whether you are reading this in OpenCOR or from the OpenCOR website:
+In addition to what is shown on the website, the HelpWindow plugin also displays special links, which when clicked send a command to OpenCOR. For example, open the current page both in OpenCOR and on the `OpenCOR website <http://www.opencor.ws/user/plugins/miscellaneous/HelpWindow.html>`_. Now, if you check the bold text below, you will see that its contents is slightly different, depending on whether you are reading this in OpenCOR or from the OpenCOR website:
 
 **To open the About box, select the** :menuselection:`Help --> About`\ **... menu...**
 

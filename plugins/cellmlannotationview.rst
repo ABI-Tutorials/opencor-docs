@@ -4,7 +4,7 @@
 CellMLAnnotationView Plugin
 ===========================
 
-The **CellMLAnnotationView** plugin can be used to annotate CellML files. If you open a CellML file which does not contain any annotation, then it will look something like this:
+The CellMLAnnotationView plugin can be used to annotate CellML files. If you open a CellML file which does not contain any annotation, then it will look something like this:
 
 .. image:: ../resources/images/plugins/CellMLAnnotationViewScreenshot01.png
     :align: center

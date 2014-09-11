@@ -20,6 +20,8 @@ The size of the text can be increased and decreased by pressing :kbd:`Control-+`
     :width: 60%
     :alt: RawView plugin: increased font size
 
+|
+
 .. image:: ../resources/images/plugins/RawViewScreenshot03.png
     :align: center
     :width: 60%
@@ -33,6 +35,8 @@ Traditional editing features can be accessed through the :guilabel:`Edit` menu, 
     :align: center
     :width: 60%
     :alt: RawView plugin: editing features through the Edit menu
+
+|
 
 .. image:: ../resources/images/plugins/RawViewScreenshot05.png
     :align: center
