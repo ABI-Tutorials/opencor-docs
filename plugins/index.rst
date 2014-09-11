@@ -25,18 +25,18 @@ API
 
 (Non-selectable) API plugins are used to provide access to various APIs:
 
-* CellMLAPI: a plugin to access the `CellML API <http://cellml-api.sourceforge.net/>`_.
+* **CellMLAPI:** a plugin to access the `CellML API <http://cellml-api.sourceforge.net/>`_.
 
 Data Store
 ==========
 
 Data Store plugins are used to store and manipulate simulation data:
 
-* CSVDataStore: a `CSV <http://en.wikipedia.org/wiki/Comma-separated_values>`_ specific data store plugin.
+* **CSVDataStore:** a `CSV <http://en.wikipedia.org/wiki/Comma-separated_values>`_ specific data store plugin.
 
 There is also one non-selectable Data Store plugin:
 
-* CoreDataStore: the core data store plugin.
+* **CoreDataStore:** the core data store plugin.
 
 Editing
 =======
@@ -50,20 +50,20 @@ Editing plugins are used to edit files:
 
 There are also some non-selectable Editing plugins:
 
-* CoreCellMLEditing: the core CellML editing plugin.
-* CoreEditing: the core editing plugin.
+* **CoreCellMLEditing:** the core `CellML <http://cellml.org>`_ editing plugin.
+* **CoreEditing:** the core editing plugin.
 
 Miscellaneous
 =============
 
 Miscellaneous plugins are used for various purposes:
 
-* CellMLTools: a plugin to access various CellML-related tools.
+* :ref:`CellMLTools <OpenCOR-plugin-cellmltools>`: a plugin to access various `CellML <http://cellml.org>`_\ -related tools.
 * HelpWindow: a plugin to provide help.
 
 There are also some non-selectable Miscellaneous plugins:
 
-* Compiler: a plugin to support code compilation.
+* **Compiler:** a plugin to support code compilation.
 * Core: the core plugin.
 
 Organisation
