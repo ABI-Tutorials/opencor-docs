@@ -15,6 +15,7 @@ This version of OpenCOR can be downloaded from the `OpenCOR download page <http:
 
     userInterfaces
     plugins/index
+    glossary
 
 .. toctree::
     :hidden:

@@ -64,16 +64,16 @@ Miscellaneous plugins are used for various purposes:
 There are also some non-selectable Miscellaneous plugins:
 
 * **Compiler:** a plugin to support code compilation.
-* Core: the core plugin.
+* **Core:** the core plugin.
 
 Organisation
 ============
 
 Organisation plugins are used to organise files:
 
-* CellMLModelRepositoryWindow: a plugin to access the CellML Model Repository.
-* FileBrowserWindow: a plugin to access your local files.
-* FileOrganiserWindow: a plugin to virtually organise files.
+* :ref:`CellMLModelRepositoryWindow <OpenCOR-plugin-cellmlmodelrepositorywindow>`: a plugin to access the `CellML Model Repository <http://models.cellml.org>`_.
+* :ref:`FileBrowserWindow <OpenCOR-plugin-filebrowserwindow>`: a plugin to access your local files.
+* :ref:`FileOrganiserWindow <OpenCOR-plugin-fileorganiserwindow>`: a plugin to virtually organise files.
 
 Simulation
 ==========
